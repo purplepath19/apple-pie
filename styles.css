@@ -1,0 +1,41 @@
+.header {
+    font-family: "Protest Revolution";
+}
+
+.header img {
+    width: 100%;
+
+}
+
+.header h1 {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    color: white;
+    font-size: 100px;
+}
+
+p {
+    text-align: center;
+}
+
+#image-container {
+    text-align: center;
+
+}
+
+#second-img-container {
+    text-align: center;
+}
+
+hr {
+    width: 900px;
+}
+
+#list {
+    font-size: 20px;
+}
+/* 
+.ingredients {
+   padding-left:  100px;
+} */
